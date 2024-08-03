@@ -1,8 +1,9 @@
-## 👋 Hi there! I'm Daniela
+![👋 Hi there! I'm Daniela](https://github.com/DanielaDF13/DanielaDF13/blob/main/Screenshot_40.png)
 ### About me 
 :mortar_board:I'm currently studying data science at EBAC <br/>
-🌱 I’m currently learning Python and SQL <br/>
+🌱 I’m learning Python and SQL <br/>
 :blue_book: This is my [Linkedin](https://www.linkedin.com/in/danieladiasfreitas/) <br/>
+⚡ Take a look at my latest [project](https://github.com/DanielaDF13/Projeto_Previsao_de_renda) 
 
 
 <!--
