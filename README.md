@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi there! I'm Daniela
+### About me 
+:mortar_board:I'm currently studying data science at EBAC <br/>
+🌱 I’m currently learning Python and SQL <br/>
+:blue_book: This is my [Linkedin](https://www.linkedin.com/in/danieladiasfreitas/) <br/>
+
 
 <!--
 **DanielaDF13/DanielaDF13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
