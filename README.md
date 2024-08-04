@@ -1,4 +1,4 @@
-![👋 Hi there! I'm Daniela](https://github.com/DanielaDF13/DanielaDF13/blob/main/Screenshot_40.png)
+![👋 Hi there! I'm Daniela](https://github.com/DanielaDF13/DanielaDF13/blob/main/assets/Hi_there.png)
 ### About me 
 :mortar_board:I'm currently studying data science at EBAC <br/>
 🌱 I’m learning Python and SQL <br/>
